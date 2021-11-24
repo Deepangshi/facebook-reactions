@@ -36,7 +36,7 @@
 
   [class*="reaction-"] {
   border: none;
-  background-image: url(http://deepangshi.github.io/facebook-reactions/icons/facebook-reactions.png);
+  background-image: url(../icons/facebook-reactions.png);
   background-color: transparent;
   display: block;
   cursor: pointer;
