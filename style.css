@@ -77,7 +77,7 @@
   background: red; }
 
 .label-reactions {
-  background: url(https://cdn4.iconfinder.com/data/icons/facebook-likes/100/1.png) no-repeat center;
+  background: url(../icons/facebook-reactions.png) no-repeat center;
   border: 2px dotted transparent;
   display: block;
   height: 100px;
